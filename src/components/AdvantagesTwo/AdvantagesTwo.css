@@ -43,11 +43,13 @@
     background-color:#F9F9F9;
     border-radius: 10px;
     cursor: pointer;
+    /* border-top: 2px solid #FF5207; */
     transition: 0.3s ease-in-out;
 }
 .advantageTwoSection .sliderAdvantageTwo .cards:hover{
     background-color:#ffffff;
     box-shadow:0 0 10px 1px #f2f2f2;
+    /* border-top: 0px solid #f2f2f2; */
 }
 .advantageTwoSection .sliderAdvantageTwo .cards:hover > .icon{
     transform: scale(110%);
