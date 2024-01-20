@@ -4,7 +4,7 @@
 // import "./RandomItemList.css";
 
 
-// const RandomItemList = () => {
+// const RandomItemList = ( ) => {
 //     const [randomProducts, setRandomProducts] = useState([]);
 
 //     useEffect(() => {
